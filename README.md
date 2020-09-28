@@ -1,1 +1,1 @@
-# CSE_PROJECT_SEM1
+# CSE_PROJECT_SEM1 (Boredom Buster)
